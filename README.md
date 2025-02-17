@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   - [AWS EC2 Remote Connection](https://github.com/DevAra007/AWS-EC2-Remote-Connection)
   - [AWS Lift and Shift Project](https://github.com/DevAra007/p2_aws_liftandshift)
  
-<h2>🔨 Hands-On Coming soon </h2>
+<h2>🔨 Soon To Upload Hands-On </h2>
 
 - Windows Server Administration Setup through AWS, Azure and Local VM
 - Active Directory and DHCP, DNS and TCP/UDP
