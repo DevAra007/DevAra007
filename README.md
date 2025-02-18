@@ -19,11 +19,14 @@ Here are some ideas to get you started:
 - <b> Amazon Web Services AWS</b>
   - [AWS EC2 Remote Connection](https://github.com/DevAra007/AWS-EC2-Remote-Connection)
   - [AWS Lift and Shift Project](https://github.com/DevAra007/p2_aws_liftandshift)
+  - 
+- <b> Windows Server Administration</b>
+  - [Active Directory Setup using Azure Virtual Machines](https://github.com/DevAra007/active-directory-azure-vm)
+  
  
 <h2>🔨 Soon To Upload Hands-On </h2>
 
-- Windows Server Administration Setup through AWS, Azure and Local VM
-- Active Directory and DHCP, DNS and TCP/UDP
+- Windows Server Administration and AD Setup through AWS, Local Enviroment
 - File and Printer Servers
 - Remote Access and Performance Monitoring
 - Support Ticket System for Helpdesk
