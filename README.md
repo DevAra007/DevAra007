@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Damy, an IT support and cloud technician.
+I am Dami, an IT support and cloud technician.
 <!--
 **DevAra007/DevAra007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
